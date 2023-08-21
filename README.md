@@ -1,3 +1,5 @@
 # "Casa Quadrangular"
- site coma primeira pagina HTML
+
+Site com a primeira pagina HTML
 Repositorio criado no curso de Html e Git $ Github
+Adicionei um codigo index.html.
